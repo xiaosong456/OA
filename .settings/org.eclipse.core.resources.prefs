@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//WebRoot/WEB-INF/jsp/departmentAction/addUI.jsp=UTF-8
+encoding//WebRoot/WEB-INF/jsp/departmentAction/editUI.jsp=UTF-8
+encoding//WebRoot/WEB-INF/jsp/departmentAction/list.jsp=UTF-8
+encoding//WebRoot/WEB-INF/jsp/roleAction/addUI.jsp=UTF-8
+encoding//WebRoot/WEB-INF/jsp/roleAction/editUI.jsp=UTF-8
+encoding//WebRoot/WEB-INF/jsp/roleAction/list.jsp=UTF-8
+encoding//WebRoot/WEB-INF/jsp/userAction/addUI.jsp=UTF-8
+encoding//WebRoot/WEB-INF/jsp/userAction/editUI.jsp=UTF-8
+encoding//WebRoot/WEB-INF/jsp/userAction/list.jsp=UTF-8
+encoding/<project>=UTF-8
